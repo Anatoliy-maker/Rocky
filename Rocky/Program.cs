@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using Rocky.Data;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
+
 var builder = WebApplication.CreateBuilder(args);
+
+string connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connection));
 
 var app = builder.Build();
 
