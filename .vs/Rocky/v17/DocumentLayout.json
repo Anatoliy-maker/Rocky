@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\barth\\Desktop\\Rocky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,8 @@
       "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\rocky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\rocky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\migrations\\20250331091419_addcategorytodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\migrations\\20250331091419_addcategorytodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,31 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250331091419_addCategoryToDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Migrations\\20250331091419_addCategoryToDatabase.cs",
-              "RelativeDocumentMoniker": "Rocky\\Migrations\\20250331091419_addCategoryToDatabase.cs",
-              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Migrations\\20250331091419_addCategoryToDatabase.cs",
-              "RelativeToolTip": "Rocky\\Migrations\\20250331091419_addCategoryToDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T09:14:19.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rocky.csproj",
-              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Rocky.csproj",
-              "RelativeDocumentMoniker": "Rocky\\Rocky.csproj",
-              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Rocky.csproj",
-              "RelativeToolTip": "Rocky\\Rocky.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-31T07:53:21.812Z"
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Rocky\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Rocky\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T16:21:17.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,9 +49,10 @@
               "RelativeDocumentMoniker": "Rocky\\Program.cs",
               "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Program.cs",
               "RelativeToolTip": "Rocky\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:54:48.601Z"
+              "WhenOpened": "2025-04-02T16:13:47.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,19 +64,20 @@
               "RelativeToolTip": "Rocky\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:47:01.842Z"
+              "WhenOpened": "2025-04-02T13:54:39.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\appsettings.json",
-              "RelativeDocumentMoniker": "Rocky\\appsettings.json",
-              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\appsettings.json",
-              "RelativeToolTip": "Rocky\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-31T07:40:40.259Z",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Rocky\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Rocky\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:00:08.289Z",
               "EditorCaption": ""
             }
           ]

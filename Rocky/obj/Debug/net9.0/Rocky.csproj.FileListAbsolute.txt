@@ -228,3 +228,4 @@ C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\refint\Rocky.dll
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\Rocky.pdb
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\Rocky.genruntimeconfig.cache
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\ref\Rocky.dll
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\Rocky.sourcelink.json
