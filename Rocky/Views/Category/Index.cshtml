@@ -2,12 +2,15 @@
 @{
 }
 <div class="container p-3">
-    <div class="row pt-4">
-        <div class="col-6">
+    
+    <div class="row pt-4 justify-content-between">
+        <div class="col-3">
             <h2 class="text-primary">Category List</h2>
         </div>
-        <div class="col-6">
-            Create new Category
+        <div class="col-2">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                Create New Category
+            </a>
         </div>
     </div>
 
