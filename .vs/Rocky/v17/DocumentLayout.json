@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\barth\\Desktop\\Rocky\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Rocky\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Rocky\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T08:15:51.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
