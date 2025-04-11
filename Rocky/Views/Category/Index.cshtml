@@ -34,8 +34,17 @@
                 {
                     <tr>
                         <td width="50%">@obj.Name</td>
-                        <td width="50%">@obj.DisplayOrder</td>
-                        <td></td>
+                        <td width="30%">@obj.DisplayOrder</td>
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Category" asp-route-Id="@obj.Id" asp-action="Edit" class="btn btn-primary mx-2">
+                                    Edit
+                                </a>
+                                <a asp-controller="Category" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger ms-2">
+                                    Delete
+                                </a>
+                            </div>
+                        </td>
                     </tr>
                 }
             </tbody>
