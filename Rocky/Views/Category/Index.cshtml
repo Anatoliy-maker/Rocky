@@ -4,12 +4,12 @@
 <div class="container p-3">
     
     <div class="row pt-4 justify-content-between">
-        <div class="col-3">
+        <div class="col-auto me-auto">
             <h2 class="text-primary">Category List</h2>
         </div>
-        <div class="col-2">
+        <div class="col-auto">
             <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
-                Create New Category
+                <i class="fa-solid fa-plus"></i> &nbsp;  Create New Category
             </a>
         </div>
     </div>
@@ -38,10 +38,10 @@
                         <td class="text-center">
                             <div class="w-75 btn-group" role="group">
                                 <a asp-controller="Category" asp-route-Id="@obj.Id" asp-action="Edit" class="btn btn-primary mx-2">
-                                    Edit
+                                    <i class="fa-solid fa-pen-to-square"></i>
                                 </a>
                                 <a asp-controller="Category" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger ms-2">
-                                    Delete
+                                    <i class="fa-solid fa-trash"></i>
                                 </a>
                             </div>
                         </td>
