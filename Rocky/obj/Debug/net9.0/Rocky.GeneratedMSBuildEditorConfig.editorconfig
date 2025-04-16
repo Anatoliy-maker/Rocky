@@ -32,6 +32,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25UeXBlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/barth/Desktop/Rocky/Rocky/Views/ApplicationType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25UeXBlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/barth/Desktop/Rocky/Rocky/Views/ApplicationType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25UeXBlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/barth/Desktop/Rocky/Rocky/Views/ApplicationType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25UeXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

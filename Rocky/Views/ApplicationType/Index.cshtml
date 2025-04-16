@@ -3,12 +3,12 @@
 <div class="container p-3">
     
     <div class="row justify-content-between">
-        <div class="col-4">
+        <div class="col-auto me-auto">
             <h2 class="text-primary">Application Type List</h2>
         </div>
-        <div class="col-3">
+        <div class="col-auto">
             <a asp-controller="ApplicationType" asp-action="Create" class="btn btn-primary w-100">
-                Create New Application Type
+                <i class="fa-solid fa-plus"></i> &nbsp; Create New Application Type
             </a>
         </div>
     </div>
@@ -30,7 +30,16 @@
                 {
                     <tr>
                         <td width="50%">@obj.Name</td>
-                        <td></td>
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="ApplicationType" asp-route-Id="@obj.Id" asp-action="Edit" class="btn btn-primary mx-2">
+                                    <i class="fa-solid fa-pen-to-square"></i>
+                                </a>
+                                <a asp-controller="ApplicationType" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger ms-2">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </div>
+                        </td>
                     </tr>
                 }
             </tbody>
