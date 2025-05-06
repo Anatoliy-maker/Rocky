@@ -1,0 +1,87 @@
+﻿@model Rocky.Models.Product
+
+<form method="post">
+    
+    <input asp-for="Id" hidden />
+    
+    <div class="border p-3">
+        <div class="row p-2">
+            <div class="col">
+                <h2 class="text-primary">Delete Product</h2>
+            </div>
+        </div>
+        <div class="row form-group ">
+            <div class="col-8">
+                <div class="form-group row p-2 ">
+                    <div class="col-3">
+                        <label asp-for="Name"></label>
+                    </div>
+                    <div class="col-9">
+                        <input asp-for="Name" disabled class="form-control" />                       
+                    </div>
+                </div>
+                <div class="form-group row p-2 ">
+                    <div class="col-3">
+                        <label asp-for="Price"></label>
+                    </div>
+                    <div class="col-9">
+                        <input asp-for="Price" disabled class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group row p-2 ">
+                    <div class="col-3">
+                        <label asp-for="Description"></label>
+                    </div>
+                    <div class="col-9">
+                        <textarea asp-for="Description"  id="summernote" class="form-control"></textarea>
+                    </div>
+                </div>
+                <div class="form-group row p-2 ">
+                    <div class="col-3">
+                        <label asp-for="CategoryId"></label>
+                    </div>
+                    <div class="col-9">
+                        <input asp-for="Category.Name" disabled class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group row p-2 ">
+                    <div class="col-3">
+                        <label asp-for="ApplicationTypeId"></label>
+                    </div>
+                    <div class="col-9">
+                        <input asp-for="ApplicationType.Name" disabled class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group row p-2 offset-4">
+                    <div class="col-5">                       
+                        <input type="submit" class="btn btn-danger w-100" value="Delete" />                       
+                    </div>
+                    <div class="col-5">
+                        <a asp-action="Index" class="btn btn-success w-100"><i class="fas fa-sign-out-alt"></i>Back</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 p-2">
+                @if (Model.Id != 0)
+                {
+                    <img src="@WC.ImagePath@Model.Image " width="100%" style="border-radius:5px; border:1px solid #bbb" />
+                }
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+
+    
+    <script>
+        $(document).ready(function() {
+          $('#summernote').summernote({
+              height:250
+          });
+        });
+
+        
+    </script>
+ }
+

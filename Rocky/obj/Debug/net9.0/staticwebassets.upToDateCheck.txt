@@ -4310,6 +4310,9 @@ wwwroot\fontawesome\webfonts\fa-solid-900.ttf
 wwwroot\fontawesome\webfonts\fa-solid-900.woff2
 wwwroot\fontawesome\webfonts\fa-v4compatibility.ttf
 wwwroot\fontawesome\webfonts\fa-v4compatibility.woff2
+wwwroot\images\product\11ccc03c-5f75-4b72-8204-0fa5b5224dc4.jpg
+wwwroot\images\product\38e06443-b4a6-4a7a-acb1-f06b24aa5120.png
+wwwroot\images\product\6848bd7f-8bca-480b-b474-97a78bf85250.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

@@ -8609,6 +8609,18 @@
       "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
+      "Id": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\wwwroot\\images\\product\\11ccc03c-5f75-4b72-8204-0fa5b5224dc4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\11ccc03c-5f75-4b72-8204-0fa5b5224dc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\wwwroot\\images\\product\\38e06443-b4a6-4a7a-acb1-f06b24aa5120.png",
+      "PackagePath": "staticwebassets\\images\\product\\38e06443-b4a6-4a7a-acb1-f06b24aa5120.png"
+    },
+    {
+      "Id": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\wwwroot\\images\\product\\6848bd7f-8bca-480b-b474-97a78bf85250.png",
+      "PackagePath": "staticwebassets\\images\\product\\6848bd7f-8bca-480b-b474-97a78bf85250.png"
+    },
+    {
       "Id": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
