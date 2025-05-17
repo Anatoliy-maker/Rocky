@@ -4312,7 +4312,13 @@ wwwroot\fontawesome\webfonts\fa-v4compatibility.ttf
 wwwroot\fontawesome\webfonts\fa-v4compatibility.woff2
 wwwroot\images\product\11ccc03c-5f75-4b72-8204-0fa5b5224dc4.jpg
 wwwroot\images\product\38e06443-b4a6-4a7a-acb1-f06b24aa5120.png
+wwwroot\images\product\4225df9d-2aee-4f6f-b2d5-5cb04f497219.png
+wwwroot\images\product\4ce21e59-c16f-4c4c-9d0f-41a909440612.jpg
+wwwroot\images\product\4d7e451e-b756-4494-8ef0-53206fcc2e90.jpg
+wwwroot\images\product\52187240-ffbb-48a5-bae7-cf1f41ed7460.jpg
+wwwroot\images\product\5603c81d-90e3-427a-8ed6-2984f4125e00.webp
 wwwroot\images\product\6848bd7f-8bca-480b-b474-97a78bf85250.png
+wwwroot\images\product\73692fbd-616d-4423-9972-12f6d06a3230.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
