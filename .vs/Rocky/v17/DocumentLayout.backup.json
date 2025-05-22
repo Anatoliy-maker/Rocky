@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\barth\\Desktop\\Rocky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\views\\applicationtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\views\\applicationtype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\models\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\models\\viewmodels\\detailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\ApplicationType\\Index.cshtml",
-              "RelativeDocumentMoniker": "Rocky\\Views\\ApplicationType\\Index.cshtml",
-              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\ApplicationType\\Index.cshtml",
-              "RelativeToolTip": "Rocky\\Views\\ApplicationType\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T13:13:02.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Rocky\\Views\\Home\\Details.cshtml",
               "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "Rocky\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T19:39:25.671Z",
+              "WhenOpened": "2025-05-22T18:02:25.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Rocky\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Rocky\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:30:09.82Z",
+              "WhenOpened": "2025-05-22T15:29:26.56Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetailsVM.cs",
-              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Models\\ViewModels\\DetailsVM.cs",
-              "RelativeDocumentMoniker": "Rocky\\Models\\ViewModels\\DetailsVM.cs",
-              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Models\\ViewModels\\DetailsVM.cs",
-              "RelativeToolTip": "Rocky\\Models\\ViewModels\\DetailsVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T19:19:31.747Z"
             }
           ]
         }

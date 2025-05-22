@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Rocky.Data;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
@@ -10,7 +11,13 @@ string connection = builder.Configuration.GetConnectionString("DefaultConnection
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connection));
-
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddSession(Options =>
+{
+    Options.IdleTimeout = TimeSpan.FromMinutes(10);
+    Options.Cookie.HttpOnly = true;
+    Options.Cookie.IsEssential = true;
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,6 +34,8 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapStaticAssets();
+
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
