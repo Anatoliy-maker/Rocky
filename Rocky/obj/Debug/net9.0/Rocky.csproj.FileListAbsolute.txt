@@ -206,12 +206,6 @@ C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\compressed\jgmcqm91it-paugr1
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets\msbuild.Rocky.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets\msbuild.Rocky.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets\msbuild.build.Rocky.props
-C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Rocky.props
-C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Rocky.props
-C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\Rocky.csproj.Up2Date
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\Rocky.dll
@@ -5063,3 +5057,10 @@ C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\barth\Desktop\Rocky\Rocky\bin\Debug\net9.0\Mailjet.Client.dll
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\compressed\7toycjh83b-3zef5s1cr7.gz
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\barth\Desktop\Rocky\Rocky\obj\Debug\net9.0\staticwebassets.build.json.cache

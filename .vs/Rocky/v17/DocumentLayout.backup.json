@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|c:\\users\\barth\\desktop\\rocky\\rocky\\utility\\mailjetsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB86F2BA-1007-4CBB-8C9B-4116C94C5C0E}|Rocky\\Rocky.csproj|solutionrelative:rocky\\utility\\mailjetsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,35 @@
               "RelativeDocumentMoniker": "Rocky\\Controllers\\CartController.cs",
               "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Controllers\\CartController.cs",
               "RelativeToolTip": "Rocky\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:58:48.214Z",
+              "WhenOpened": "2025-09-27T08:41:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailJetSettings.cs",
+              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Utility\\MailJetSettings.cs",
+              "RelativeDocumentMoniker": "Rocky\\Utility\\MailJetSettings.cs",
+              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Utility\\MailJetSettings.cs",
+              "RelativeToolTip": "Rocky\\Utility\\MailJetSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:40:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Rocky\\Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\barth\\Desktop\\Rocky\\Rocky\\Utility\\EmailSender.cs",
+              "RelativeToolTip": "Rocky\\Utility\\EmailSender.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:40:35.632Z",
               "EditorCaption": ""
             }
           ]
